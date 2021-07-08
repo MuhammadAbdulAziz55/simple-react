@@ -13,7 +13,10 @@ const Cart = (props) => {
         <div className=" cart-info cart">
             <h2 className="h2">My Team</h2>
             <div>
-                {cart.length === 0 && <div>Cart Is Empty</div>}
+                {cart.length === 0 && <div>Team Player Is Empty Now</div>}
+            </div>
+            <div>
+                <p>Team Player: {cart.length}</p>
             </div>
 
             {cart.map((player) => (
