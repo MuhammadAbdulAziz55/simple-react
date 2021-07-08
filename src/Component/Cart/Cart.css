@@ -1,0 +1,25 @@
+.cart-info {
+  margin-left: 400px;
+  margin-top: 50px;
+  border: 2px solid gray;
+}
+
+.cart {
+  position: fixed;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: space-between;
+}
+.d-flex p {
+  width: 250px;
+}
+
+.main-container {
+  display: flex;
+}
+
+.h2 {
+  color: green;
+}

@@ -1,0 +1,28 @@
+.player-info {
+  display: flex;
+  border: 1px solid lightgray;
+  margin-left: 100px;
+  height: 300px;
+  width: 450px;
+  column-gap: 30px;
+  background-color: hotpink;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+  border-radius: 10px solid gray;
+}
+
+.player-info img {
+  border-radius: 70%;
+  height: 100px;
+  width: 100px;
+}
+
+/* .add-button {
+  background-color: white;
+  width: 150px;
+  height: 30px;
+  border: 1px solid darkgray;
+  border-radius: 5px;
+  cursor: pointer;
+} */

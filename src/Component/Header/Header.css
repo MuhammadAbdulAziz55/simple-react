@@ -1,0 +1,17 @@
+.block {
+  background-color: lightgray;
+  padding: 1rem;
+  margin: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.center {
+  text-align: center;
+}
+.row {
+  display: flex;
+}
+
+.header-style {
+  color: red;
+}
